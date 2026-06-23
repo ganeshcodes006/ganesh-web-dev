@@ -1,0 +1,12 @@
+.button_class {
+  color:beige;
+  background-color: blue;
+  font-size: 100%;
+  font-family: verdana;
+  
+}
+body {
+  background-color: pink;
+  color: black;
+  font-family: verdana;
+  text-align: center;}
